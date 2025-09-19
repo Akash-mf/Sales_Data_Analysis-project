@@ -1,5 +1,3 @@
-# Sales_Data_Analysis-project
-
 # Sales Data Analysis Project
 
 ## Overview
@@ -121,7 +119,7 @@ Add narrative insights like:
 ## Folder Structure
 
 ```
-Sales-Analysis-Project/
+Sales-Data-Analysis-Project/
 │
 ├── data/
 │   └── sales_dataset.csv
